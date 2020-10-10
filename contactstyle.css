@@ -1,6 +1,13 @@
 .card {
     margin: 0 auto; /* Added */
     float: none; /* Added */
+    margin-top: 50px;
     margin-bottom: 10px; /* Added */
     /* margin-left: 50px; */
+}
+
+.container {
+
+    padding-bottom: 200px;
+    background-color: aliceblue;
 }
