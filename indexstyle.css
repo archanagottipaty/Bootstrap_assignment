@@ -1,9 +1,17 @@
-h4 {color:green}
+h4 {color:green;
+margin-bottom: 20px;}
 
 img {
     max-width: 100%;
     height: auto;
     float:left;
+    border:black;
+    margin-right:15px;
   }
   
-  
+.container-fluid{
+    margin-left: 20px;
+
+padding: 10px;
+
+}
